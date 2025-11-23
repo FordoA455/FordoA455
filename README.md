@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FordoA455
-- 👀 I’m interested in artificial intelligence, machine learning, neural networks, and crypto currency backend
+- 👀 I’m interested in bioinformatics, genomics, transcriptomics, and machine learning
 - 🌱 I’m currently learning rust and relearning C++
-- 💞️ I’m looking to collaborate on a machine learning model or a cryptocurrency
 - 📫 How to reach me milobylin@gmail.com
 
 <!---
