@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lieutenantlin
-- 👀 I’m interested in bioinformatics, genomics, transcriptomics, and machine learning
+- 👀 I’m interested in bioinformatics, genomics, epigenomics, and machine learning
 - 🌱 I’m currently learning rust and relearning C++
 - 📫 How to reach me milobylin@gmail.com
 
